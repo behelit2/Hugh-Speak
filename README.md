@@ -16,6 +16,8 @@ sudo dnf install python3 python3-prompt-toolkit espeak-ng bash openssh-clients
 
 Hugh can run locally or on a remote server, and this script accommodates both configurations. 
 
+Edit hugh_speak.py to change the configuration settings.
+
 Set your CONNECTION_MODE to local or ssh. Make sure your local or SSH settings are correct, perspectively. You can change the VOICE, PITCH, and WORDS_PER_MINUTE in the Local voice settings.
 
 # Step 4, Run.
