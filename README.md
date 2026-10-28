@@ -28,4 +28,4 @@ python3 hugh_speak.py
 
 Depending on whether you picked local or ssh, Hugh will start right away or you will be prompted for your SSH password (after which Hugh starts right away). Starting to type interrupts the voice.
 
-*NOTE - The Granite Hugh interface will work slightly differently due to how the wrapper works. CTRL+C will not remove previous turns and will exit. And it will not remember your normal prompt history, starting a fresh history each time.
+*NOTE - Hugh Speak is experimental and some Granite Hugh features might not work as expected. The main difference is that it doesn't share the same prompt history due to its client based design.
