@@ -94,7 +94,7 @@ HUGH_ENVIRONMENT = "granite.env"
 #   espeak-ng --voices=en
 # ---------------------------------------------------------------------
 
-VOICE = "en-029+m7"
+VOICE = "en-gb+m7+klatt3"
 PITCH = 38
 WORDS_PER_MINUTE = 155
 
